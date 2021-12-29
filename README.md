@@ -9,13 +9,13 @@ Fitur yang diterapkan adalah USER AUTHENTIFICATION
 
 
 Link yang saya gunakan: <br>
-<u>localhost/larashop/public</u>
+localhost/larashop/public
 
 
 
 atau jika tidak bisa tambahkan port apache xamppnya: <br>
-<u>localhost:8080/larashop/public</u>
+localhost:8080/larashop/public
 
 
 atau jika menggunakan laravel php artisan serve: <br>
-<u>127.0.0.1:8000</u>
+127.0.0.1:8000
