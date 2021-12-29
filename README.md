@@ -8,14 +8,14 @@ Fitur yang diterapkan adalah USER AUTHENTIFICATION
 
 
 
-Link yang saya gunakan:
+Link yang saya gunakan: <br>
 localhost/larashop/public 
 
 
 
-atau jika tidak bisa tambahkan port apache xamppnya: 
+atau jika tidak bisa tambahkan port apache xamppnya: <br>
 localhost:8080/larashop/public
 
 
-atau jika menggunakan laravel php artisan serve:
+atau jika menggunakan laravel php artisan serve: <br>
 127.0.0.1:8000
