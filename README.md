@@ -17,6 +17,5 @@ atau jika tidak bisa tambahkan port apache xamppnya:
 localhost:8080/larashop/public
 
 
-
 atau jika menggunakan laravel php artisan serve:
 127.0.0.1:8000
